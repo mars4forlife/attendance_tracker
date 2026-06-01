@@ -4,5 +4,5 @@ class AppConstants {
   // Координаты университета
   static const double universityLat = 42.866672;
   static const double universityLng = 74.570477;
-  static const double attendanceRadiusMeters = 500.0;
+  static const double attendanceRadiusMeters = 600.0;
 }
